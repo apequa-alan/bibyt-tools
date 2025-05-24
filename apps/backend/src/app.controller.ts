@@ -1,6 +1,6 @@
 import { Controller, Get, UseGuards, Request } from '@nestjs/common';
 import { AppService } from './app.service';
-import { TelegramGuard } from './common/guards/telegram.guard';
+import { TelegramGuard } from 'src/common/guards/telegram.guard';
 
 @Controller()
 export class AppController {

@@ -53,4 +53,4 @@ A Telegram Mini App that helps users manage their Bybit positions with features 
 
 ## License
 
-MIT 
+MIT
